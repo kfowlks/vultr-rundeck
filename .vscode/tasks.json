@@ -1,0 +1,12 @@
+{
+    "version": "0.1.0",
+    "command": "c:\\cygwin64\\bin\\python2.7.exe",
+    "args": ["dump-rundeck-resources.py"],
+    "problemMatcher": {
+        "fileLocation": ["relative", "${workspaceRoot}"],
+        "pattern": {
+            "regexp": "^(.*)+s$",
+            "message": 1
+        }
+    }
+}
