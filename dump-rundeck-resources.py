@@ -37,7 +37,6 @@ Usage:
 
 import sys
 import argparse
-#import logging
 import json
 
 from json import dumps
