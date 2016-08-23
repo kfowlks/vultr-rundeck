@@ -1,8 +1,8 @@
 # Vultr Rundeck Resource Dump 
 
-This program reads the server instance information from [vultr](https://my.vultr.com/) using their API and converts the output to a rundeck compatible resources.xml file format. In order to use the program, you'll need a valid vultr account along with an API key. 
+This program reads the server instance information from [vultr](https://my.vultr.com/) using their API and converts the output to a rundeck compatible resources.xml file. In order to use the program, you'll need a valid vultr account along with an API key. 
 
-You can find more information on enabling the API functionality from the link below. 
+You can find more information on enabling the API functionality for your link below. 
 
 https://my.vultr.com/settings/#settingsapi
 
